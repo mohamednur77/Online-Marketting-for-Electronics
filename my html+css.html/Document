@@ -1,0 +1,39 @@
+# Online Marketing for Electronics
+
+## Tech Heads
+
+Our organization will come up an online system for online shopping for electronics. It consists of four members where each member has a role to play:
+
+## Members
+
+Awori Jayson -Integration Manager
+Mohamednur ABDI Mumin Hussein -Quality Control
+Sandra Maina -Research Analyst
+Kepha Magara -Spokesman
+
+## Objectives
+
+The objectives of this organization is to come up with an online Marketing System foe Electronics.
+
+Once the system is deployed, users will be able to create accouunts by filling their registration forms, Login to their respective accounts using passwords created, surf through the website, select their preferred electronic items and order them. The order process will be complete once the user pays for the product.
+
+The system will be able to allow the user to select their point of delivery. The products will be delivered to the customer pat their selected dstination and a receipt for their products will be issued in hard copy.  The user will be required to give their feedback on the functionality of the system and give their ratings.
+
+A different module will also be created where the user will also fill a text box to about the changes that need to be made for the betterment of the system.This text-box will also include user compliments and complains about the system.
+
+After the user is done with placing orders and other requirements, they will be able to sign out till their next visit.
+
+Moreover, on the next sign in incase the user has forgotten the password, they will be able to recover their passwords using their email accounts. They can change their passwords so that they dont forget on their next visit.
+
+### MODULES
+
+Registration/Login/Log out/Password Recovery -Awori Jayson
+Products/Prices/Receipts -Kepha Magara.
+Orders/Payments/Confirmation -Sandra Maina
+Delivery/Product tracking/User's review -Mohamednur Abdi Mumin.
+
+## CODING
+
+In the system development process, our Organization is going to use different languages in coding. We will be using HTML+CSS for user interface amd PHP for deployment of the system
+A little bit of bootstrap will also be used for designing.
+We will also use MYSQL for database management.
