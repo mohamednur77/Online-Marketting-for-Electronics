@@ -1,14 +1,4 @@
 
-# 1) Introduction
-
-# 2) Acknowledgement
-
-# 3) Objectives
-
-# 4) The_User_of_the_system-
-
-[](#)
-
 - [1) Introduction](#1-introduction)
 - [2) Acknowledgement](#2-acknowledgement)
 - [3) Objectives](#3-objectives)
